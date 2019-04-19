@@ -13,7 +13,7 @@ public class UserInput {
 	    int b = sc.nextInt();
 	    
 	    int product= a*b;
-	    System.out.println("Product is: "+ produc
+	    System.out.println("Product is: "+ product);
 
 		// TODO Auto-generated method stub
 
