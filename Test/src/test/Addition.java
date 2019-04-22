@@ -5,7 +5,7 @@ public class Addition {
 	public static void main(String[] args) {
 		
 		int c= 40;
-		int b= 20;
+		int b= 400;
 		
 		int sum=c+b;
 		System.out.println("Addition is done");
