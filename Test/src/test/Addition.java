@@ -8,6 +8,7 @@ public class Addition {
 		int b= 20;
 		
 		int sum=c+b;
+		System.out.println("Addition is done");
 		System.out.println("sum is:" +sum);
 		// TODO Auto-generated method stub
 
