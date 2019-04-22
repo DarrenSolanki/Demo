@@ -7,7 +7,7 @@ public class subtaction {
 		int i=10;
 		int j=5;
         int sub=i-j;
-        System.out.println(sub);
+        System.out.println("subtracton:"+ sub);
 	}
 
 }
