@@ -21,6 +21,7 @@ public class IfControlStatement {
 		else if(a == b) {
 			System.out.println("A is equal to B");
 		}
+		System.out.println();
 			
 
 	}
