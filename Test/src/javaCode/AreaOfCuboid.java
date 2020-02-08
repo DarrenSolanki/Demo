@@ -19,6 +19,7 @@ public class AreaOfCuboid {
 		lsa(l, b, h);
 		tsa(l, b, h);
 		diagonalOfCuboid(l, b, h);
+		System.out.println();
 	
 	}
 	
